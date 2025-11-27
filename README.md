@@ -16,11 +16,11 @@ Kelas E
 
 ## 🕷️ Project 1 - Manajemen file server
 
-- Link videonya ada <a href="https://www.youtube.com/watch?v=lRTtMcx6rSM">disini</a>
+- Link videonya ada <a href="https://youtu.be/ZLCVPie_QVM?si=jl3yfUHj_akeuZfB">disini</a>
 
 ## 🕷️ Project 2 - Sistem backup otomatis menggunakan bash script
 
-- Link videonya ada <a href="https://www.youtube.com/watch?v=lRTtMcx6rSM">disini</a>
+- Link videonya ada <a href="https://youtu.be/R2zMpMfbLgM?si=mEyr6lxlC84jrNog">disini</a>
 
 ## 👨‍💻 Dosen Pengampuh
 - Bapak Zulhair Jidan Dj. Tamu., S.Kom, M.Kom
