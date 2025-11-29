@@ -14,10 +14,9 @@ Prodi  : Sistem Informasi
 Kelas  : E
 ```
 
-
-> [!CAUTION]
-> - <a href="https://youtu.be/ZLCVPie_QVM?si=jl3yfUHj_akeuZfB">Project 1</a>
-> - <a href="https://youtu.be/R2zMpMfbLgM?si=mEyr6lxlC84jrNog">Project 2</a>
+### 📑 List Tugas
+> - [ ] <a href="https://youtu.be/ZLCVPie_QVM?si=jl3yfUHj_akeuZfB">Project 1</a>
+> - [ ] <a href="https://youtu.be/R2zMpMfbLgM?si=mEyr6lxlC84jrNog">Project 2</a>
 
 
 ## 🕷️ Project 1 - Manajemen file server
@@ -26,6 +25,7 @@ Kelas  : E
 
 ## 🕷️ Project 2 - Sistem backup otomatis menggunakan bash script
 
-- Link videonya ada <a 
+- Link videonya ada <a href="https://youtu.be/R2zMpMfbLgM?si=mEyr6lxlC84jrNog">disini</a>
+
 ## 👨‍💻 Dosen Pengampu
 - Bapak Zulhair Jidan Dj. Tamu., S.Kom, M.Kom
