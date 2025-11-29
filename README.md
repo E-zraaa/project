@@ -7,11 +7,11 @@ Saya membuat ini sebagai bentuk pemenuhan tugas.
 ## ⚠️ Disclaimer
 
 ```
-Perkenalkan saya Ezra Mohammad Kau
-NIM 05301425098
-Jurusan Teknik Informatikan
-Prodi Sistem Informasi
-Kelas E
+Nama   : Ezra Mohammad Kau
+NIM    : 05301425098
+Jurusan: Teknik Informatikan
+Prodi  :Sistem Informasi
+Kelas  : E
 ```
 
 ## 🕷️ Project 1 - Manajemen file server
@@ -22,5 +22,5 @@ Kelas E
 
 - Link videonya ada <a href="https://youtu.be/R2zMpMfbLgM?si=mEyr6lxlC84jrNog">disini</a>
 
-## 👨‍💻 Dosen Pengampuh
+## 👨‍💻 Dosen Pengampu
 - Bapak Zulhair Jidan Dj. Tamu., S.Kom, M.Kom
