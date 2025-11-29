@@ -7,11 +7,11 @@ Saya membuat ini sebagai bentuk pemenuhan tugas.
 ## ⚠️ Disclaimer
 
 ```
-Nama   : Ezra Mohammad Kau
+_Nama   : Ezra Mohammad Kau
 NIM    : 05301425098
-Jurusan: Teknik Informatikan
-Prodi  :Sistem Informasi
-Kelas  : E
+Jurusan: Teknik Informatika
+Prodi  : Sistem Informasi
+Kelas  : E_
 ```
 
 ## 🕷️ Project 1 - Manajemen file server
