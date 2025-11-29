@@ -1,5 +1,4 @@
-# SISTEM OPERASI
-
+# PROJECT BASED LEARNING 2
 Repository ini dimaksudkan sebagai tempat dimana
 semua link youtube tugas saya dibuat.
 Saya membuat ini sebagai bentuk pemenuhan tugas.
@@ -14,7 +13,7 @@ Prodi  : Sistem Informasi
 Kelas  : E
 ```
 
-### 📑 List Tugas
+## 📑 List Tugas
 > - [ ] <a href="https://youtu.be/ZLCVPie_QVM?si=jl3yfUHj_akeuZfB">Project 1</a>
 > - [ ] <a href="https://youtu.be/R2zMpMfbLgM?si=mEyr6lxlC84jrNog">Project 2</a>
 
