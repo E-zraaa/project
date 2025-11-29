@@ -15,8 +15,8 @@ Kelas  : E
 ```
 
 > [!LIST TUGAS]
-> - href="https://youtu.be/ZLCVPie_QVM?si=jl3yfUHj_akeuZfB">Project 1</a>
-> - href="https://youtu.be/R2zMpMfbLgM?si=mEyr6lxlC84jrNog">Project 2</a>
+> - <a href="https://youtu.be/ZLCVPie_QVM?si=jl3yfUHj_akeuZfB">Project 1</a>
+> - <a href="https://youtu.be/R2zMpMfbLgM?si=mEyr6lxlC84jrNog">Project 2</a>
 
 
 ## 🕷️ Project 1 - Manajemen file server
